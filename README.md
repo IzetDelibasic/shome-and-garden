@@ -1,2 +1,2 @@
-# SmartHome and Garden DevElite
- 
+# sHome-and-Garden-DEV-Elite
+DEV-Elite
